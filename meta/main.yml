@@ -2,7 +2,8 @@
 allow_duplicates: no
 
 dependencies:
-      - { role: AsianChris.system }
+  - { role: AsianChris.system }
+  - { role: AsianChris.gem }
 
 galaxy_info:
   author: Chris Baptista
